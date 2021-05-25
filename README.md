@@ -53,4 +53,5 @@ chmod +x ~/RPIstatus.sh
  
  2. Give out:
  > In our example we have a Node on Shard 1 and on Shard 2, so we removed Shard 0 and Shard 3 commands.
+ 
  ![Script](https://github.com/Stakeridoo/harmony-one-RPIstatus/blob/main/RPIstatus.sh.png)
